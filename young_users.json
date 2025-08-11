@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Liam Da Silva",
+        "birth_year": 1995,
+        "email": "liam.dasilva@example.com"
+    },
+    {
+        "name": "Isolde Klaiber",
+        "birth_year": 1995,
+        "email": "isolde.klaiber@example.com"
+    },
+    {
+        "name": "\u067e\u0631\u06cc\u0627 \u0645\u0648\u0633\u0648\u06cc",
+        "birth_year": 1994,
+        "email": "pry.mwswy@example.com"
+    }
+]

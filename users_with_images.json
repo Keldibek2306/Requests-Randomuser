@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Askil Bugge",
+        "email": "askil.bugge@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/42.jpg"
+    },
+    {
+        "name": "Kathy Mitchell",
+        "email": "kathy.mitchell@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+        "name": "Shannon Cruz",
+        "email": "shannon.cruz@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    {
+        "name": "Tha\u00efs Francois",
+        "email": "thais.francois@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/87.jpg"
+    },
+    {
+        "name": "Abigail Ross",
+        "email": "abigail.ross@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/52.jpg"
+    },
+    {
+        "name": "\u00d6zkan K\u0131l\u0131\u00e7\u00e7\u0131",
+        "email": "ozkan.kilicci@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/62.jpg"
+    },
+    {
+        "name": "Valda Alves",
+        "email": "valda.alves@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/88.jpg"
+    },
+    {
+        "name": "Zoe Wright",
+        "email": "zoe.wright@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/76.jpg"
+    },
+    {
+        "name": "Vilina Lesiv",
+        "email": "vilina.lesiv@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+        "name": "Aur\u00e9lien Martin",
+        "email": "aurelien.martin@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/24.jpg"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "first_name": "Henner",
+    "last_name": "H\u00f6fling",
+    "gender": "male",
+    "email": "henner.hofling@example.com",
+    "phone": "0395-4352098",
+    "address": {
+        "street": "Talstra\u00dfe",
+        "city": "Kaltennordheim",
+        "country": "Germany"
+    }
+}
